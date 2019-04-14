@@ -1,4 +1,5 @@
 # Kalc
-This is just a simple calculator made in java using neteans, for a school assignment.
+This is just a calculator application made in java using netbeans for a school assignment. It was 2016 and in my 3th semester
+at the university i was not aware of the importance of have a clean code.
 
 ![alt text](https://lh3.googleusercontent.com/9lHp8NwLObiUsDaPA_OlWvra39EvIv3JJnFboTu4i2XTttaeLS45PWHNpBKFE-1oJeiqiwYdf-j51zvBUmdEt3FHDcho3kvw0dNgohlJZm9LijgCNfuLGRFuRC78k0wgcJBPaKxIl1Iqeqd7peq0QSQz0aGhp8F2WETs1-FMJ6v0fc2bfbaQCbkBDsTOR5oiFfpuIV0Pjhqus-5TkWr3CCpqR8vqD4IEcDEy-SM-jue27hWkB0sBVyKV37xsG_qYBE32w1W2KA_zg4tyQwO_tmG2suul20w2Oc6HPYyJ2gaYikt9DMDWb_CiGz90m26EW9jD9CEPHI1kJ3g1OzJCweZWCP2FDpSPoKpPSfzmkjT4Xo7akUul6CtHwtrpyEo9QvruepPrxVHnfFiXI3YuiCbeC6ovIkE7uXPY2ZAqGiBqqEyycbDolJ98Rbf_lGI-x6OPOpkTSelEJ3ImHvcCFXdK66MCdMI5b1rDOGlBtASgiymiWQkkgiRGKFhCkPK-jsTv7enu9SbTreoCbm-N1aIPXp-3GI2NlH6UreJzdQOf020kMp4haX4-aOrYoS0GN3HcgQxYY16C_vBBWB45Y3-tqKxaVE5L85HE-XND4IHU4vFjTccZU2Bbdqj7Kj_MHdUSH_nIKyNRroVsTb8waYMMSc8ioh0=w368-h349-no)
